@@ -1,0 +1,4 @@
+My name is Rahul.
+I am learning Python.
+Python is easy to learn.
+File handling is an important topic.
